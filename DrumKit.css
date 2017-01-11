@@ -15,11 +15,10 @@ kbd {
 }
 
 .keys {
-	left: 50%;
-	margin-left: -440px;
-	margin-top: -40px;
-	position: absolute;
-	top: 50%;
+	align-items: center;
+	display: flex;
+	height: 400px;
+	justify-content: center;
 }
 
 .key {
